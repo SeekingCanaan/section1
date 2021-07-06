@@ -33,8 +33,7 @@ public class Solution609 {
                 list.add(values[0] + "/" + name_cont[0]);
 
                 System.out.println(name_cont[1]);
-                System.out.println(list.toString());
-                System.out.println("==========");
+                System.out.println(list.toString() + "===========");
                 map.put(name_cont[1], list);
             }
 
