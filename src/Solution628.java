@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-// 三个数的最大乘积
+// 628.三个数的最大乘积
 public class Solution628 {
 
     public static void main(String[] args) {
